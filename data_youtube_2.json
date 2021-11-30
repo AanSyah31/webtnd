@@ -1,0 +1,100 @@
+﻿{
+    "db_youtube": [{
+            "id": "1",
+            "video_id": "-Sh4HVxb65c",
+            "judul": "Chipping Pohon Kelapa Sawit",
+            "kategori": "Estate",
+            "db_tag": [{
+                    "tag": "Chipping"
+                },
+                {
+                    "tag": "Kelapa"
+                },
+                {
+                    "tag": "Sawit"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "video_id": "ZAyV8hsiMuw",
+            "judul": "Sensus UPDKS",
+            "kategori": "Estate",
+            "db_tag": [{
+                    "tag": "Sensus"
+                },
+                {
+                    "tag": "UPDKS"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "video_id": "2Bd_BrDZFIU",
+            "judul": "Deteksi Hama Kelapa Sawit",
+            "kategori": "Estate",
+            "db_tag": [{
+                    "tag": "Hama"
+                },
+                {
+                    "tag": "Kelapa"
+                },
+                {
+                    "tag": "Sawit"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "video_id": "6VTAUWQShq0",
+            "judul": "PMMP Mutu Buah",
+            "kategori": "Estate",
+            "db_tag": [{
+                    "tag": "Mutu"
+                },
+                {
+                    "tag": "Buah"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "video_id": "J_Rn9uAErvU",
+            "judul": "PMMP Mutu Ancak",
+            "kategori": "Estate",
+            "db_tag": [{
+                    "tag": "Mutu"
+                },
+                {
+                    "tag": "Ancak"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "video_id": "uWXxxOrzy9k",
+            "judul": "PMMP Sensus AKP",
+            "kategori": "Estate",
+            "db_tag": [{
+                    "tag": "Sensus"
+                },
+                {
+                    "tag": "AKP"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "video_id": "9dZ7Od0oSsI",
+            "judul": "PMMP Kerani Panen",
+            "kategori": "Estate",
+            "db_tag": [{
+                    "tag": "Kerani"
+                },
+                {
+                    "tag": "Panen"
+                }
+            ]
+        }
+    ]
+}

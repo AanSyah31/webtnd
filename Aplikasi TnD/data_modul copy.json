@@ -1,0 +1,214 @@
+{
+  "db_modul":[
+    {
+          "id": "1",
+          "db_media": "video",
+          "link": "-Sh4HVxb65c",
+          "thumbnail": "chipping_pohon",
+          "judul": "Chipping Pohon Kelapa Sawit",
+          "kategori": "Estate",
+          "db_tag": [
+            {
+              "tag": "Chipping"
+            },
+            {
+              "tag": "Kelapa"
+            },
+            {
+              "tag": "Sawit"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "db_media": "video",
+          "link": "ZAyV8hsiMuw",
+          "thumbnail": "sensus_updks",
+          "judul": "Sensus UPDKS",
+          "kategori": "Estate",
+          "db_tag": [
+            {
+              "tag": "Sensus"
+            },
+            {
+              "tag": "UPDKS"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "db_media": "video",
+          "link": "2Bd_BrDZFIU",
+          "thumbnail": "deteksi_hama",
+          "judul": "Deteksi Hama Kelapa Sawit",
+          "kategori": "Estate",
+          "db_tag": [
+            {
+              "tag": "Hama"
+            },
+            {
+              "tag": "Kelapa"
+            },
+            {
+              "tag": "Sawit"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "db_media": "pdf",
+          "link": "kelistrikan",
+          "thumbnail": "kelistrikan",
+          "judul": "Kelistrikan",
+          "kategori": "Mill",
+          "db_tag": [
+            {
+              "tag": "Listrik"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "db_media": "pdf",
+          "link": "laboratorium",
+          "thumbnail": "laboratorium",
+          "judul": "Laboratorium",
+          "kategori": "Mill",
+          "db_tag": [
+            {
+              "tag": "Laboratorium"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "db_media": "pdf",
+          "link": "maintenance",
+          "thumbnail": "maintenance",
+          "judul": "Maintenance",
+          "kategori": "Mill",
+          "db_tag": [
+            {
+              "tag": "Maintenance"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "db_media": "pdf",
+          "link": "administrasi_afdeling",
+          "thumbnail": "administrasi_afdeling",
+          "judul": "Administrasi Afdeling",
+          "kategori": "Admin",
+          "db_tag": [
+            {
+              "tag": "Administrasi"
+            },
+            {
+              "tag": "Afdeling"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "db_media": "pdf",
+          "link": "administrasi_gudang",
+          "thumbnail": "administrasi_gudang",
+          "judul": "Administrasi Gudang",
+          "kategori": "Admin",
+          "db_tag": [
+            {
+              "tag": "Administrasi"
+            },
+            {
+              "tag": "Gudang"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "db_media": "pdf",
+          "link": "administrasi_perkebunan_kelapa_sawit",
+          "thumbnail": "administrasi_perkebunan_kelapa_sawit",
+          "judul": "Administrasi Perkebunan Kelapa Sawit",
+          "kategori": "Admin",
+          "db_tag": [
+            {
+              "tag": "Administrasi"
+            },
+            {
+              "tag": "Perkebunan"
+            },
+            {
+              "tag": "Kelapa"
+            },
+            {
+              "tag": "Sawit"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "db_media": "pdf",
+          "link": "pengantar_swot_fb_rcps_slp",
+          "thumbnail": "pengantar_swot_fb_rcps_slp",
+          "judul": "Pengantar SWOT FB RCPS SLP",
+          "kategori": "Soft Skill",
+          "db_tag": [
+            {
+              "tag": "Pengantar"
+            },
+            {
+              "tag": "SWOT"
+            },
+            {
+              "tag": "FB"
+            },
+            {
+              "tag": "RCPS"
+            },
+            {
+              "tag": "SLP"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "db_media": "pdf",
+          "link": "membangun_hubungan_sosial",
+          "thumbnail": "membangun_hubungan_sosial",
+          "judul": "Membangun Hubungan Sosial",
+          "kategori": "Soft Skill",
+          "db_tag": [
+            {
+              "tag": "Membangun"
+            },
+            {
+              "tag": "Hubungan"
+            },
+            {
+              "tag": "Sosial"
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "db_media": "pdf",
+          "link": "17_kehidupan_pondok",
+          "thumbnail": "17_kehidupan_pondok",
+          "judul": "17 Kehidupan Pondok",
+          "kategori": "Soft Skill",
+          "db_tag": [
+            {
+              "tag": "17"
+            },
+            {
+              "tag": "Kehidupan"
+            },
+            {
+              "tag": "Pondok"
+            }
+          ]
+        }
+  ]
+}
